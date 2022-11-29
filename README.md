@@ -64,5 +64,8 @@
   <a href="https://nextjs.org" target="_blank">
     <img alt="NextJS" src="https://img.shields.io/badge/-nextJS-333333?style=flat-square&logo=nextdotjs&logoColor=white">
   </a>
+  <a href="https://www.scrumalliance.org" target="_blank">
+    <img alt="NextJS" src="https://img.shields.io/badge/-scrum_alliance-009FDA?style=flat-square&logo=scrumalliance&logoColor=white">
+  </a>
 </h4>
 <br>
