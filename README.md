@@ -1,6 +1,6 @@
 <!-- Intro  -->
-<p align="center">
-  <samp style="font-size: 24px;">Hey There 👋, I'm Alan</samp>
+<p align="center" style="font-family: ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace;
+    font-size: 12px;">Hey There 👋, I'm Alan
 </p>
 <p align="center">
   <samp>Senior Software Engineer at <a target="_blank" href="https://imperosoftware.com/">Impero Software</a></samp>
