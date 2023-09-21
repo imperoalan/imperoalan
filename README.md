@@ -1,5 +1,5 @@
 <!-- Intro  -->
-<p align="center" style="font-size: 16px;">
+<p align="center" style="font-size: 24px;">
   <samp>Hey There 👋, I'm Alan</samp>
 </p>
 <p align="center">
