@@ -12,11 +12,11 @@
 <p align="center">
   <!-- Organisation  -->
   <samp>
-  I'm a full-stack developer who likes creating user-friendly,
+  I am a full-stack developer who excels in crafting user-centric 
   <br>
-  well-crafted front-end experiences with a strong focus on
+  front-end experiences, emphasizing usability, performance, 
   <br>
-  usability, performance, and maintainability across the stack.
+  and maintainability throughout the entire stack.
   </samp>
   <br>
   <br>
