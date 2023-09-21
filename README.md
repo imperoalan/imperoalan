@@ -1,11 +1,9 @@
 <!-- Intro  -->
 <h3 align="center">
-  Hey There 👋, I'm <a target="_blank" href="https://r3id.dev/">Alan</a>
+  <samp>Hey There 👋, I'm <a target="_blank" href="https://r3id.dev/">Alan</a></samp>
 </h3>
 <p align="center">
-  <samp>
-  Senior Software Engineer at <a target="_blank" href="https://imperosoftware.com/">Impero Software</a>
-  </samp>
+  <samp>Senior Software Engineer at <a target="_blank" href="https://imperosoftware.com/">Impero Software</a></samp>
 </p>
 <p align="center">
   <!-- Organisation  -->
