@@ -54,7 +54,8 @@
 <br>
 <br>
 <!-- Intro  -->
-<strong align="center">
+<p align="center">
+  <strong>
   <samp>Currently learning</samp>
   <br><br>
   <a href="https://nextjs.org" target="_blank">
@@ -63,5 +64,6 @@
   <a href="https://www.scrumalliance.org" target="_blank">
     <img alt="NextJS" src="https://img.shields.io/badge/-scrum_alliance-009FDA?style=flat-square&logo=scrumalliance&logoColor=white">
   </a>
-</strong>
+  </strong>
+</p>
 <br>
