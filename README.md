@@ -1,5 +1,5 @@
 <!-- Intro  -->
-<p align="center" style="font-family: ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace;
+<p align="center" style="font-family: ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace;">
     font-size: 12px;">Hey There 👋, I'm Alan
 </p>
 <p align="center">
