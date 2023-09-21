@@ -1,7 +1,7 @@
 <!-- Intro  -->
-<h3 align="center">
+<p align="center" style="font-size: 16px;">
   <samp>Hey There 👋, I'm Alan</samp>
-</h3>
+</p>
 <p align="center">
   <samp>Senior Software Engineer at <a target="_blank" href="https://imperosoftware.com/">Impero Software</a></samp>
 </p>
