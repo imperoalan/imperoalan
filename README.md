@@ -1,8 +1,6 @@
 <!-- Intro  -->
 <h3 align="center">
-  <samp>&gt; Hey There 👋, I'm
-    <a target="_blank" href="https://r3id.dev/">Alan</a>
-  </samp>
+  Hey There 👋, I'm <a target="_blank" href="https://r3id.dev/">Alan</a>
 </h3>
 <p align="center">
   <samp>
